@@ -1,0 +1,41 @@
+String İşlemleri
+
+    İndis numarası 0 ile başlayıp artarak ilerler.
+        Boşluk, bir terim olarak kabul edilir.
+        Eksi indeks (-1) son elemandan başlar.
+
+    + operatörü ile string değerleri birleştirilebilir.
+
+    : operatörü kullanılarak Python'da string bölme işlemleri yapılabilir.
+        Bu işlem 3 parametrede incelenir:
+            Başlangıç: Başlangıç noktasını belirtir.
+            Bitiş: Bitiş noktasını belirtir.
+            Artış miktarı: Aradaki adımları belirler.
+
+    Replace() komutu ile string verileri doğrudan değiştirilebilir.
+
+    "[:-x]" Operatörü kullanılarak string değerlerinden karakterler silinebilir.
+        Bu, son x karakteri silmek için kullanılır.
+
+    Split() komutu ile belirli elemanlar ayırılabilir.
+
+    len() komutu ile bir stringin karakter sayısı bulunabilir.
+
+    .count() komutu ile istenilen değerin sayısı bulunabilir.
+
+    is komutu == operatörü yerine kullanılabilir.
+
+    .format() komutu {} içerisine bir değer yerleştirilmesine yarar.
+
+    .join(reversed(x)) komutu ile x değişkeninin string değeri tersine çevrilebilir.
+        Bu komutun başına '' içinde bir değer girilmesi ile karakterler arasına bir ayırıcı eklenebilir.
+
+    .lower() komutu ile bir stringin içerisindeki tüm karakterler küçük harfe dönüştürülebilir.
+
+    .upper() komutu ile bir stringin içerisindeki tüm karakterler büyük harfe dönüştürülebilir.
+
+    .swapcase() komutu ile bir stringin içerisindeki büyük ve küçük harflerin yerleri değiştirilir.
+
+    .capitalize() komutu ile bir stringin ilk harfi büyük yapılır.
+
+    in operatörü bir string içerisinde arama yapmak için kullanılır.

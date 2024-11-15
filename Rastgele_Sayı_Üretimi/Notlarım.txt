@@ -1,0 +1,16 @@
+Rastgele Sayı Üretimi ve Matematiksel Fonksiyonlar
+
+    abs() komutu içerisine yazılan sayının mutlak değerini alır.
+    Built-in Fonksiyonlar varsayılan programla birlikte kullanılabilen fonksiyonlardır.
+    round() komutu bir sayıyı yuvarlamaya yarar.
+    sum() komutu değerlerin toplanmasına yarar.
+    sqrt() komutu bir sayının karekökünü almaya yarar.
+    pi fonksiyonu pi sayısı ile işlemler yapılmasına yarar.
+    gcd() fonksiyonu sayıların EBOB'unu bulmaya yarar.
+    random.random() 1 ve 0 arasında rastgele bir değer üretmeye yarar.
+    random.randint() komutu belirlenen aralıkta rastgele tam sayı (integer) değeri üretmeye yarar.
+    random.randrange() komutu ile 3. parametreden artış miktarı da belirtilebilir.
+    random.uniform() komutu iki değer arasında rastgele ondalıklı (float) değer üretmeye yarar.
+    random.choice() komutu rastgele bir liste elemanı seçmeye yarar.
+    random.shuffle() komutu bir listeyi rastgele karıştırır.
+    random.sample() komutu listeden belirli sayıda eleman seçmeye yarar.

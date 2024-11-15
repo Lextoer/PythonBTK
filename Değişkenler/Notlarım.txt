@@ -1,0 +1,14 @@
+Değişkenler
+Syntax (söz dizilimi), kodun doğru yapısını ifade eder.
+Değişkenlerde özel karakterler kullanılmaz; değişken isimleri rakamla başlayamaz.
+Değişken değiştirme işlemi, K, Y = Y, K yapısı ile gerçekleştirilir.
+% işareti kalanı verir.
+** üs alma işlemini yapar.
+// tam sayı bölmeyi ifade eder.
+Python, işlem önceliğine dikkat eder.
++= ve -= gibi operatörler, işlemi eşitlik ile birleştirir.
+Ondalık sayı veri tipine float denir.
+Veri tiplerini sorgulamak için type fonksiyonu kullanılır.
+Veri tipleri birbirlerine dönüştürülebilir.
+Açıklama satırları, # işareti kullanılarak yazılır.
+Tüm anahtar kelimeleri görmek için keyword.kwlist komutu kullanılır.

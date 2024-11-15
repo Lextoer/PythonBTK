@@ -1,0 +1,16 @@
+Python Nesne Yönelimli Programlama
+
+    Python nesne yönelimli bir dildir.
+    class komutu, kendi veri tipimizi oluşturmamıza yarar.
+    Metotlar, class içerisindeki fonksiyonlardır.
+    self komutu, nesnenin kendini referans etmesini sağlar.
+    __init__() fonksiyonu, metotlara başlangıç varsayılan değerleri atamaya yarar.
+    dir(x) fonksiyonu, x class'ına ait kullanılabilir materyalleri listeler.
+    __init__() fonksiyonu, return döndüremez.
+    Tarih verisine erişmek için, datetime.datetime.now() fonksiyonu kullanılır.
+    import, gerekli paketlerin dosyaya çağırılmasına yarar.
+    from komutu, belirli parçaların import edilmesine olanak sağlar.
+    as komutu, import edilen modüllerin isimlerinin değiştirilmesine olanak verir.
+    Tek seferde birden fazla modül, import edilebilir.
+    __name__ komutu, bir işlemin ana program olup olmadığını test eder.
+    pow() komutu, üs almaya yarar.

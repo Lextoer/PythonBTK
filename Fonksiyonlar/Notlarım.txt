@@ -1,0 +1,9 @@
+Fonksiyonlar
+Fonksiyonlar: Kompakt sistemlerdir ve kodun tekrar kullanılabilirliğini sağlar.
+def Komutu: Pythonda fonksiyon oluşturmak için kullanılır.
+Varsayılan Değerler: Fonksiyon parametrelerine varsayılan değerler atanabilir.
+return Komutu: Fonksiyonun çıktısını geri döndürmeye yarar.
+global Komutu: Değişkenleri programın farklı bölümlerinde kullanılabilir hale getirir.
+pass Komutu: Hata vermeden kodun çalışmaya devam etmesini sağlar.
+lambda Komutu: Kısa ve anonim fonksiyonlar oluşturmak için kullanılır.
+Öztekrarlı Fonksiyon: Bir fonksiyonun kendi içinde tekrar kendisini çağırmasıdır.

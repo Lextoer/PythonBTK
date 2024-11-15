@@ -1,0 +1,28 @@
+Turtle Modülü ile Çizim Komutları
+
+        turtle.position() ve turtle.pos() komutları çizimin anlık konumunu gösterir.
+        turtle.goto(), turtle.setpos() ve turtle.setposition() komutları çizimin belirli bir noktaya gitmesini sağlar.
+        turtle.reset() ve turtle.home() komutları, turtle'ı orijinal (0, 0) noktasına geri getirir.
+        turtle.setx() ve turtle.sety() komutları ile sadece x veya y ekseninde değişiklik yapılabilir.
+        turtle.forward() ve turtle.fd() komutları, turtle’ı ileriye doğru hareket ettirir.
+        turtle.backward() ve turtle.bk() komutları, turtle’ı geriye doğru hareket ettirir.
+        turtle.right() komutu sağa doğru dönüş sağlar. Kısaltması olarak turtle.rt() da kullanılabilir.
+        turtle.left() komutu sola doğru dönüş sağlar. Kısaltması olarak turtle.lt() da kullanılabilir.
+        turtle.getshapes() komutu ile mevcut turtle cursor seçenekleri incelenebilir.
+        turtle.shape() fonksiyonu ile seçilen imge turtle'a atanabilir.
+        Simgenin tamamen kaldırılması için turtle.hideturtle() fonksiyonu kullanılır.
+        Turtle simgesi tekrar görünür hale getirilmek istendiğinde turtle.showturtle() fonksiyonu kullanılır.
+        pensize() komutu ile çizgi kalınlığı ayarlanabilir.
+        color() komutu ile çizimin rengini ayarlayabilirsiniz.
+        fillcolor() fonksiyonu ile şeklin içini boyamak için renk belirlenir.
+        begin_fill() komutu şeklin içini doldurmaya başlar.
+        end_fill() komutu ise şeklin içini doldurmayı sonlandırır.
+        circle() komutu ile daire çizilir. Varsayılan olarak saat yönünün tersine çizim yapılır.
+        penup() komutu ile turtle, çizim yapmadan hareket eder.
+        pendown() komutu ile turtle çizime başlar.
+        numinput() komutu sayısal girdi alır.
+        textinput() komutu metin tabanlı (string) girdi alır.
+        setup() fonksiyonu ile piksel piksel bir çerçeve oluşturulabilir.
+        bgpic() fonksiyonu ile içerisine girilen görsel dosyayı çerçeveye yerleştirir.
+        title() komutu ile pencereye başlık atanabilir.
+        mainloop() komutu, çizimin kaybolmaması için pencerenin açık kalmasını sağlar.

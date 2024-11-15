@@ -1,0 +1,4 @@
+Giriş/Algoritma
+Algoritma kavramı, Harezmi tarafından ortaya atılmıştır.
+Algoritmalar, düz metin ifadeleri, kaba kodlar ve akış şemaları ile ifade edilebilir.
+Algoritma düşüncesi, adımların sıralı ve mantıklı bir şekilde tanımlanmasını gerektirir.

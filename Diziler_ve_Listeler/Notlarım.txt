@@ -1,0 +1,29 @@
+Diziler ve Listeler
+
+    Array: Liste/dizi anlamına gelir.
+
+    index(): Bir listedeki elemanın indeks (konum) değerini bulmaya yarar.
+
+    append(): Listenin sonuna yeni bir eleman ekler.
+
+    insert(): Bir listenin istenilen yerine eleman eklemeye yarar.
+
+    len(): Listenin eleman sayısını verir.
+
+    extend(): Listeleri birleştirmeye yarar.
+
+    max() ve min(): Bir listedeki en büyük ve en küçük değerleri tespit etmeye yarar.
+
+    list(): String'leri listelemeye yarar, varsayılan olarak her karakteri ayrı bir eleman olarak listeye ekler.
+
+    remove(): Listeden belirtilen elemanı siler.
+
+    pop(): Belirli bir indisteki elemanı silmeye yarar.
+
+    clear(): Bütün listeyi boşaltmaya yarar.
+
+    sort(): Listeyi küçükten büyüğe sıralar.
+
+    enumerate(): Liste elemanlarını numaralandırarak döndürür.
+
+    Stack: Yığın anlamına gelir.

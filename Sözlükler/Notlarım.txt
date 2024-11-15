@@ -1,0 +1,22 @@
+Sözlükler ve Küme Veri Tipleri
+
+    dict() komutu sözlük oluşturmak için kullanılır. Sözlükler değer karşılığı atanabilme özelliği ile listelerden ayırılırlar. Sözlüklerde {} kullanılır. Değerlerin karşılıklarına key denir.
+
+    get() komutu sözlükteki karşılığı görmemizi sağlar. İki parametresi bulunur:
+        parametreyi sorgularken, 1. parametrenin olmadığı durumlarda ikinci parametreyi yazdırır.
+
+    keys() fonksiyonu sözlüğün sadece key değerlerini, values() fonksiyonu sözlüğün sadece value değerlerini görmeye yarar.
+
+    items() komutu bütün sözlük elemanlarını kodsal yapıda görmemizi sağlar.
+
+    Set veri tipi küme veri tipi demektir. set() fonksiyonu ile oluşturulur.
+
+    | operatörü kümeleri birleştirmeye yarar.
+
+    & operatörü kümeleri kesiştirmeye yarar.
+
+    - operatörü kümelerin farkını almaya yarar.
+
+    Demet veri tipi Tuple denir. Tuple'da () kullanılır. Listede ise [] kullanılır.
+
+    Tuple veri tipleri değiştirilemezler ve onları diğer veri tiplerinden ayıran özellikleri budur. Tuple, hafızada daha az yer kaplar.

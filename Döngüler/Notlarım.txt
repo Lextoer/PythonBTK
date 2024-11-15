@@ -1,0 +1,12 @@
+Döngüler
+Listeler, bir değişken içerisine birden fazla değişken atanmasına yarar.
+in ve not in operatörleri, bir verinin liste içerisinde olup olmadığını sorgulamaya yarar.
+range komutu, değer aralığı yaratmaya yarar.
+for in range():
+while (parametre):
+break komutu, while döngüsünden pat diye erken çıkmaya yarar.
+while True fonksiyonu, sonsuz döngü oluşturmaya yarar.
+range komutunda son değer, alan dışındadır.
+continue, mevcut döngüye dönüp devam etmeye yarar.
+Yazılımda amaç sadeliktir.
+range komutunun 3. parametresi ile kaçar kaçar artış veya azalış olacağı belirlenebilir.

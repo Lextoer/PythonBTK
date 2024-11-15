@@ -1,0 +1,7 @@
+Veri İşlemleri
+input, en temel girdi fonksiyonudur.
+sep, yazdırılan verilerin arasını belirler.
+* operatörü, bir verinin kaç kez yazdırılacağını belirtir.
+end komutu, alt satıra geçmeyi engeller.
+\n yeni bir satıra geçiş yapar.
+\t bir tab boyutu kadar boşluk bırakır.

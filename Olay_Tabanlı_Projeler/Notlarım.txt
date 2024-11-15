@@ -1,0 +1,20 @@
+Olay Tabanlı Projeler Komutları
+
+    onclick(x) ve onscreenclick(x) komutları, fareye tıklandığında x fonksiyonunu çağırır.
+    onrelease(x) komutu, fare bırakıldığında x fonksiyonunu çağırır.
+    ondrag(f) komutu, fare sürüklemesi olduğunda x komutunu çağırır.
+    listen() komutu, tuş olaylarını yakalamak için turtle ekranını dinler.
+    onkey(x, tus) ve onkeyrelease(x, tus) komutları, belirli bir klavye tuşu bırakıldığında x fonksiyonunu çağırır.
+    onkeypress(x, tus) komutu, tuşa basıldığında x fonksiyonunu çağırır.
+    ontimer(x, t) komutu, t kadar saniye sonra x fonksiyonunu çağıracak bir zamanlayıcı kurar.
+    mainloop() ve done() komutları, olay yakalama döngüsünü başlatır, en sonda olmalıdırlar.
+    exitonclick() komutu, fareye tıklandığında bye() fonksiyonunu çağırır.
+    write() fonksiyonu, ekrana bir yazı yazmaya yarar.
+    delay() komutu, milisaniye cinsinden gecikmeler ayarlar.
+    tracer(n, delay) komutu, delay saniyede n kez ekranı yenilemeye yarar.
+    update() komutu, çizim ekranını tamamen günceller, genellikle tracer komutundan sonra kullanılır.
+    distance() komutu, bir nesnenin başka bir yer ile arasındaki mesafeyi verir.
+    Time modülü, zaman araçlarının kullanılmasına yarar.
+        time.sleep() fonksiyonu, delay görevi görür.
+    playsound modülü, projeye ses eklenmesine yarar.
+        playsound(x) komutu, x parçasını çalar.

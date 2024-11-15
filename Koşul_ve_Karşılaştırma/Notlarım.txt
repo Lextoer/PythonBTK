@@ -1,0 +1,7 @@
+Koşul ve Karşılaştırma Operatörleri
+if tek şart için geçerli bir ifadedir.
+if else şartın hem olumlu hem de olumsuz durumlarını gözetir.
+if elif else birden fazla şartın olumlu ve olumsuz durumlarını gözetir.
+Kullanımı if koşul: şeklindedir.
+Python'da etki alanı, boşluklar (indentation) ile belirlenir.
+else kullanımı da aynıdır.

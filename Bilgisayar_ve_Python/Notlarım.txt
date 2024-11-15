@@ -1,0 +1,8 @@
+Bilgisayar ve Python
+Bilgisayarlar, giriş ve çıkış donanımlarına sahiptir.
+Transistörler, makine dilinin temelini oluşturan 0 ve 1'ler üzerinden çalışır.
+Derleyiciler tüm kodu derler, yorumlayıcılar ise kodu satır satır çevirir.
+Python, yorumlayıcı kullanan bir dildir ve kodları satır satır işler.
+Python, nesne tabanlı bir programlama dilidir.
+IDE'ler, hataları görüp düzeltmemize yardımcı olan araçlardır.
+* simgesi, kaydedilmemiş değişiklikleri gösterir.
